@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HelloApp/static/css/main.b8a94f34.css",
+    "main.js": "/HelloApp/static/js/main.f1981104.js",
+    "index.html": "/HelloApp/index.html",
+    "main.b8a94f34.css.map": "/HelloApp/static/css/main.b8a94f34.css.map",
+    "main.f1981104.js.map": "/HelloApp/static/js/main.f1981104.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8a94f34.css",
+    "static/js/main.f1981104.js"
+  ]
+}
