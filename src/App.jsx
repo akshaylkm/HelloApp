@@ -16,7 +16,7 @@ function App() {
   
   return (
     <div className=" bg-amber-400 h-screen flex flex-col justify-center items-center sm:px-2 ">
-      <h1 className=" font-bold text-3xl mb-3">Hello {fname} {lname}</h1>
+      <h1 className=" font-bold text-3xl mb-3">Hello {fname} {lname} :)</h1>
       <form onSubmit={submitNameHandler}>
         <input className=" opacity-80 w-64 sm:w-80 h-12 mb-2 pl-3" type="text" value={fname} placeholder="F Name" onChange={fnameChangeHandler} />
         <br />
